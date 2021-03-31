@@ -50,3 +50,5 @@ function EmailRow({ id, time, title, subject, description }) {
 }
 
 export default EmailRow;
+// mail rows and icons messages descriptn
+
