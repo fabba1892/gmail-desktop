@@ -8,3 +8,6 @@ export default configureStore({
     user: userReducer,
   },
 });
+
+// dataLlayer setup with dispatch and pull function
+
