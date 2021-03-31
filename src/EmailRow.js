@@ -52,5 +52,7 @@ function EmailRow({ id, time, title, subject, description }) {
 export default EmailRow;
 // mail rows and icons messages descriptn
 // rows history state and onclick to mail
+// updatedd mail row / list
+
 
 
