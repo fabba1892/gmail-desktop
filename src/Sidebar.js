@@ -59,3 +59,6 @@ function Sidebar() {
 }
 
 export default Sidebar;
+
+// onClick compose the mail message opens
+
