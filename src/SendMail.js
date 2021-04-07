@@ -86,6 +86,8 @@ export default SendMail;
 // npm i react-hook-form the button&form styled
 // register and name inputs handleSubmit it wont submit when no message
 // handleSubmit it wont submit when no message
+// mail erros popup when need to popult forms
+
 
 
 
