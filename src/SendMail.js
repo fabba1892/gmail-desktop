@@ -80,3 +80,5 @@ function SendMail() {
 }
 
 export default SendMail;
+
+// sendMail function, button for composing mail
