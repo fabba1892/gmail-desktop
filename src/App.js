@@ -62,5 +62,7 @@ function App() {
 export default App;
 // app__body the mail in the middle-right
 // sendMail function, button for composing mail
+// state for opening the compose mail
+
 
 
