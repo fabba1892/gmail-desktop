@@ -83,4 +83,6 @@ export default SendMail;
 
 // sendMail function, button for composing mail
 // compos new mail form and style
+// npm i react-hook-form the button&form styled
+
 
