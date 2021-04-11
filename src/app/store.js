@@ -10,4 +10,6 @@ export default configureStore({
 });
 
 // dataLlayer setup with dispatch and pull function
+// userSlice datalayer setup
+
 
