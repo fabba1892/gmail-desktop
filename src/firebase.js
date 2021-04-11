@@ -18,3 +18,5 @@ const provider = new firebase.auth.GoogleAuthProvider();
 export { db, auth, provider };
 
 // connects db to firestore, auth to email and googleProvider
+// npm i firebase & tools this what connex FE to BE
+
