@@ -30,4 +30,6 @@ export const selectSendMessageIsOpen = (state) => state.mail.sendMessageIsOpen;
 export default mailSlice.reducer;
 
 // dataLlayer setup with dispatch and pull function
+// selectMail in th db for display
+
 
