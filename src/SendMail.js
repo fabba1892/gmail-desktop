@@ -88,6 +88,8 @@ export default SendMail;
 // handleSubmit it wont submit when no message
 // mail erros popup when need to popult forms
 // closeIcon state dispatch working and emial @ error if emial incorrct
+// dispatch data into db
+
 
 
 
