@@ -19,4 +19,6 @@ export { db, auth, provider };
 
 // connects db to firestore, auth to email and googleProvider
 // npm i firebase & tools this what connex FE to BE
+// concts db to firestor, auth, email & googleProvidr
+
 
