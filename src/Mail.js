@@ -87,4 +87,6 @@ function Mail() {
 
 export default Mail;
 // mail history arrowback, icons / message body and style time/title descrptn
+// selects the mail and open it from db
+
 
