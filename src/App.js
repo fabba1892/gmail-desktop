@@ -64,6 +64,8 @@ export default App;
 // sendMail function, button for composing mail
 // state for opening the compose mail
 // login and google auth created
+// keep user logged in dont logout
+
 
 
 
