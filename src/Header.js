@@ -52,3 +52,5 @@ function Header() {
 export default Header;
 //  now can see my avatar photo
 // also the login and logout from the avatar onclick
+// get user avatar img and signOut when onClick
+
